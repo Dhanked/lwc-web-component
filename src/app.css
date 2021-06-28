@@ -10,3 +10,6 @@ p {
     height: 100vh;
     overflow: scroll;
 }
+:host{
+--sds-c-icon-color-background:yellow;
+}
